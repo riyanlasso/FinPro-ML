@@ -61,7 +61,7 @@
             <select name="umur" id="umur" class="form-control selBox" required="required">
               <option value="" disabled selected>Umur</option>
               <?php
-              for ($i = 20; $i <= 25; $i++) {
+              for ($i = 18; $i <= 24; $i++) {
                 echo "<option value='$i'>$i</option>";
               }
               ?>
