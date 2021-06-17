@@ -117,7 +117,7 @@
 		"pendidikan": "s1",
 		"tinggi": "st",
 		"kesehatan": "tidak_sehat",
-		"status": 1
+		"status": 0
 	},
 	{
 		"umur": 21,
@@ -277,7 +277,7 @@
 		"pendidikan": "smk",
 		"tinggi": "ideal",
 		"kesehatan": "tidak_sehat",
-		"status": 1
+		"status": 0
 	},
 	{
 		"umur": 21,
@@ -293,7 +293,7 @@
 		"pendidikan": "s1",
 		"tinggi": "st",
 		"kesehatan": "tidak_sehat",
-		"status": 1
+		"status": 0
 	},
 	{
 		"umur": 21,
@@ -485,7 +485,7 @@
         "pendidikan" : "sma",
         "tinggi" : "kt",
         "kesehatan" : "tidak_sehat",
-        "status" : 1
+        "status" : 0
     },
     {
         "umur" : 22,
@@ -517,7 +517,7 @@
         "pendidikan" : "sma",
         "tinggi" : "ideal",
         "kesehatan" : "tidak_sehat",
-        "status" : 1
+        "status" : 0
     },
     {
         "umur" : 19,
@@ -525,7 +525,7 @@
         "pendidikan" : "smk",
         "tinggi" : "ideal",
         "kesehatan" : "tidak_sehat",
-        "status" : 1
+        "status" : 0
     },
     {
         "umur" : 22,
@@ -557,7 +557,7 @@
         "pendidikan" : "smk",
         "tinggi" : "st",
         "kesehatan" : "tidak_sehat",
-        "status" : 1
+        "status" : 0
     },
     {
         "umur" : 23,
@@ -703,7 +703,7 @@
 		"pendidikan" : "sma",
 		"tinggi" : "ideal",
 		"kesehatan" : "tidak_sehat",
-		"status" : 1
+		"status" : 0
 	},
 
 {
@@ -829,7 +829,7 @@
 		"pendidikan" : "smk",
 		"tinggi" : "ideal",
 		"kesehatan" : "tidak_sehat",
-		"status" : 1
+		"status" : 0
 	},
 
 {

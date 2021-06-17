@@ -32,9 +32,9 @@ $paT = $obj->hasilTrue($jumTrue,$jumData,$umur,$tinggi,$bb,$kesehatan,$pendidika
 $paF = $obj->hasilFalse($jumTrue,$jumData,$umur2,$tinggi2,$bb2,$kesehatan2,$pendidikan2);
 
 if($a2 == "kt"){
-  $a2 = "kurang_tinggi";
+  $a2 = "Kurang Tinggi";
 }else if($a2 == "st"){
-  $a2 = "sangat_tinggi";
+  $a2 = "Sangat Tinggi";
 }
 
 echo "
