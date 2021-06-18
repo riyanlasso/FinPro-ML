@@ -3,11 +3,6 @@ require_once 'autoload.php';
 
 $obj = new Bayes();
 
-// echo $obj->sumData()."<br>";
-// echo $obj->sumTrue()."<br>";
-// echo $obj->sumFalse()."<br>";
-// echo $obj->probUmur(21,0)."<br>";
-
 $jumTrue = $obj->sumTrue();
 $jumFalse = $obj->sumFalse();
 $jumData = $obj->sumData();
@@ -105,9 +100,5 @@ if($paT > $paF){
   <br><br>";
 }
 
-// echo $obj->hasilTrue($jumTrue,$jumData,$umur,$tinggi,$bb,$kesehatan,$pendidikan)."<br>";
-// echo $obj->hasilFalse($jumTrue,$jumData,$umur2,$tinggi2,$bb2,$kesehatan2,$pendidikan2)."<br><br>";
-
 $result = $obj->perbandingan($paT,$paF);
 echo " Status : $result[0] <br>Presentasi diterima sebanyak : ".round($result[1],2)." % <br>Presentasi diolak sebanyak : ".round($result[2],2)." % ";
- ?>

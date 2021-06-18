@@ -2,9 +2,6 @@
 class Bayes
 {
   private $pegawai = "data.json";
-  // private $jumTrue = 0;
-  // private $jumFalse = 0;
-  // private $jumData = 0;
 
   function __construct()
   {
@@ -193,5 +190,3 @@ class Bayes
   }
   //=================================================================
 }
-
-?>
